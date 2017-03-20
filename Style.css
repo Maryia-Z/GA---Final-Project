@@ -1,0 +1,198 @@
+.body {
+  max-height: 800;
+}
+.wrapper {
+  width: 0 auto;
+  max-width: 1280px;
+  margin-left: auto;
+	margin-right: auto;
+}
+.header {
+  font: 'Helvetica Neue', Ariel, san-serif;
+  font-size: 34.2px;
+  color: #404040;
+  margin-left: 240px;
+  align: left;
+}
+.column{
+	outline: 1px solid white;
+	height: auto;
+	width: 0 auto;
+	display: inline-block;
+	vertical-align: top;
+	box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+}
+.left-column {
+  width: 20%;
+	padding-left: 10px;
+	padding-right: 30px;
+}
+.left-column p{
+  font-size: 15px;
+  font: Helvetica, sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  color: #404040;
+}
+.left-box {
+  width: 250px;
+  height: 400px;
+  background: white;
+  position: absolute;
+  left: 25px;
+  top: 185px;
+}
+.svg-wrapper {
+  width: 60%;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.svg-holder {
+  width: 770px;
+  height: 200px;
+  position: absolute;
+  left: 275px;
+  top: 65px;
+}
+.right-column {
+  width: 20%;
+  padding-left: 10px;
+  padding-right: 30px;
+}
+.right-column p{
+  font-size: 15px;
+  font: Helvetica, sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 1px;
+  padding-bottom: 5px;
+  color: #404040;
+}
+.right-box {
+  width: 250px;
+  height: 400px;
+  background: white;
+  position: absolute;;
+  left: 1050px;
+  top: 185px;
+}
+.Copernican {
+  width: 232px;
+  height: 400px;
+  overflow: scroll;
+}
+.Tychonian {
+  width: 232px;
+  height: 400px;
+  overflow: scroll;
+}
+.Cortesian-Vortex {
+  width: 232px;
+  height: 400px;
+  overflow: scroll;
+}
+.Static-Newtonian {
+  width: 232px;
+  height: 400px;
+  overflow: scroll;
+}
+.Hierarchical {
+  width: 232px;
+  height: 400px;
+  overflow: scroll;
+}
+.BigBang {
+  width: 232px;
+  height: 400px;
+  overflow: scroll;
+}
+.Oscillating {
+  width: 232px;
+  height: 400px;
+  overflow: scroll;
+}
+.SteadyState {
+  width: 232px;
+  height: 400px;
+  overflow: scroll;
+}
+.Inflationary {
+  width: 232px;
+  height: 400px;
+  overflow: scroll;
+}
+.Multiverse {
+  width: 232px;
+  height: 400px;
+  overflow: scroll;
+}
+#CapernicanUniverse {
+  visibility: hidden;
+}
+#CopConNew {
+  visibility: hidden;
+}
+#TychonicUniverse {
+  visibility: hidden;
+}
+#CortesianVortexUniverse {
+  visibility: hidden;
+}
+#Static_x5F_NewtonianUniverse {
+  visibility: hidden;
+}
+#HierarchicalUniverse_x5F_NebulaTheory {
+  visibility: hidden;
+}
+#BigBang {
+  visibility: hidden;
+}
+#OscillatingUniverse {
+  visibility: hidden;
+}
+#SteadyStateUniverse {
+  visibility: hidden;
+}
+#InflationaryUniverse {
+  visibility: hidden;
+}
+#Multiverse {
+  visibility: hidden;
+}
+#TextCircle {
+  visibility: hidden;
+}
+#InfConBB {
+  visibility: hidden;
+}
+.Cortesian-Vortex {
+  visibility: hidden;
+}
+.Tychonian{
+  visibility: hidden;
+}
+.Static-Newtonian {
+  visibility: hidden;
+}
+.Hierarchical {
+  visibility: hidden;
+}
+.BigBang {
+  visibility: hidden;
+}
+.Oscillating {
+  visibility: hidden;
+}
+.SteadyState {
+  visibility: hidden;
+}
+.Inflationary {
+  visibility: hidden;
+}
+.Multiverse {
+  visibility: hidden;
+}

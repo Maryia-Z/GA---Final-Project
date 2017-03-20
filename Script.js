@@ -1,0 +1,46 @@
+$("#Layer_52").hide();
+$("#CapernicanUniverse").hide();
+$("#CopConNew").hide();
+$("#TychonicUniverse").hide();
+$("#CortesianVortexUniverse").hide();
+$("#Static_x5F_NewtonianUniverse").hide();
+$("#HierarchicalUniverse_x5F_NebulaTheory").hide();
+$("#BigBang").hide();
+$("#OscillatingUniverse").hide();
+$("#SteadyStateUniverse").hide();
+$("#InflationaryUniverse").hide();
+$("#Multiverse").hide();
+$("#TextCircle").hide();
+$("p.1").click(function(){
+    $("p.Copernican").show();
+});
+$("p.2").click(function(){
+    $("p.Tychonian").show();
+});
+$("p.3").click(function(){
+    $("p.Cortesian-Vortex").show();
+});
+$("p.4").click(function(){
+    $("p.Static-Newtonian").show();
+});
+$("p.5").click(function(){
+    $("p.Hierarchical").show();
+});
+$("p.6").click(function(){
+    $("p.BigBang").show();
+});
+$("p.7").click(function(){
+    $("p.Oscillating").show();
+});
+$("p.8").click(function(){
+    $("p.SteadyState").show();
+});
+$("p.9").click(function(){
+    $("p.Inflationary").show();
+});
+$("p.10").click(function(){
+    $("p.Multiverse").show();
+});
+$("#p1").mouseenter(function(){
+    $("p.Copernican").show();
+});
